@@ -6,3 +6,9 @@
 - installing node bun usw and setting it up
 - trying my first things like a spinning cube
 - >todo rendering external data 
+
+## 23.12.25
+
+- Testig
+- plaing around with som grafical plugins usw 
+- 
